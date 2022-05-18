@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 <!--
 **stein257/stein257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![7a959082c526433e6fe2e7f224d9bec2](https://user-images.githubusercontent.com/86434696/169085393-d41f5671-9cf6-438c-9aeb-5d290710aaf5.gif)
