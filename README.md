@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-![7a959082c526433e6fe2e7f224d9bec2](https://user-images.githubusercontent.com/86434696/169085393-d41f5671-9cf6-438c-9aeb-5d290710aaf5.gif)
+    <img src="https://user-images.githubusercontent.com/86434696/169085393-d41f5671-9cf6-438c-9aeb-5d290710aaf5.gif" alt="Diper!"/>
 </p>
